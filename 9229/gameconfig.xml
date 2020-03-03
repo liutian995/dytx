@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ROOT>
+    <ZServer ip="server.douyou78.com" port="12303" />
+    <FServer ip="server.douyou78.com" port="12302" />
+    <HttpUrl url="http://127.0.0.1:80" />
+      <ResUrl url="http://127.0.0.1:80" />
+      <PhpUrl url="https://api.douyou78.com" />
+      <Pay WechatAlipay="true" LQ="false" ApplePay="false" />
+    <Login GuestLogin="true" AccountLogin="true" />
+      <Invite TextInvite="true" />
+</ROOT>
