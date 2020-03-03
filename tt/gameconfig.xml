@@ -1,0 +1,10 @@
+<ROOT>
+    <ZServer ip="116.62.179.235" port="12303" />
+    <FServer ip="116.62.179.235" port="12308" />
+    <HttpUrl url="http://47.111.0.197:8122" />
+      <ResUrl url="http://47.111.0.197:8121" />
+      <PhpUrl url="http://api.apisvc.cn" />
+      <Pay WechatAlipay="true" LQ="false" ApplePay="false" />
+    <Login GuestLogin="true" AccountLogin="true" />
+      <Invite TextInvite="true" />
+</ROOT>
